@@ -18,36 +18,34 @@ p{
     height:5px;
 }
 .fecha{
-    margin-left: 50%;
+  width: 400px;
+    margin-left: 55%;
     position: absolute;
     z-index: 10;
     margin-top: -100px;
 }
 .falta{
-  margin-right:0px;
-  margin-top:-100px;
+  margin-left: 5%;
+  margin-top: -150px;
+  margin-bottom: 100px;
 }
 .button-container-2 {
     position: relative;
     width: 40%;
-    height: 50px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 7vh;
+    height: 30px;
+    margin-top: 1vh;
     overflow: hidden;
     border: 1px solid #ffffff;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     transition: 0.5s;
-    letter-spacing: 1px;
   }
   .button-container-2 button {
     width: 101%;
     height: 100%;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    font-size: 20px;
-    letter-spacing: 1px;
+    font-size: 17px;
     background: #ffffff;
     -webkit-mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/urban-sprite.png");
     mask: url("https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/urban-sprite.png");
@@ -71,8 +69,7 @@ p{
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     position: absolute;
-    font-size: 20px;
-    margin-top: 12px;
+    font-size: 17px;
     overflow: hidden;
   }
   @-webkit-keyframes ani {
